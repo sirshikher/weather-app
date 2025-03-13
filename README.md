@@ -44,3 +44,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Improvement
+
+1. I could have used cache the searchInput
+2. I can improve Accesebility
+3. I can improve Internationalization
+4. I can peroformance like remove unused lib, Lazy loading
+5. Encapsulate QueryClient Logic
+6. Api retry logic
+7. error handling
+8. API abort handling
