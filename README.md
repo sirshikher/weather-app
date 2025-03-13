@@ -1,16 +1,26 @@
 
-To
-install dependencies: npm install
-run the app:npm start
-run test: npm test
 
-Improvement
+```bash
+To install dependencies: 
+npm install
 
-1. I could have used cache the input values.
-2. I can improve Accesebility.
-3. I can improve Internationalization.
-4. I can improve peroformance like remove unused lib, Lazy loading and more.
-5. Encapsulate QueryClient Logic.
-6. Api retry logic.
-7. Error handling.
-8. API Abort handling.
+To run the app:
+npm start
+
+To run tests:
+npm test
+
+
+Improvements
+
+I could have used caching for the input values.
+I can improve accessibility.
+I can improve internationalization.
+I can improve performance by:
+Removing unused libraries.
+Implementing lazy loading.
+And more.
+Encapsulate QueryClient logic.
+Implement API retry logic.
+Improve error handling.
+Implement API abort handling.
